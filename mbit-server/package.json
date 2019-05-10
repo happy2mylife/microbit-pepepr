@@ -1,0 +1,13 @@
+{
+  "name": "websocket_sample",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1",
+    "request": "^2.88.0",
+    "socket.io": "^1.7.3",
+    "ws": "^2.1.0"
+  }
+}
